@@ -5,7 +5,7 @@ Universal Solder sell a very effective AM receiver module for atomic clocks (60k
 
 https://www.universal-solder.ca/product/canaduino-60khz-atomic-clock-receiver-module-wwvb-msf-jjy60/
 
-https://www.universal-solder.ca/product/canaduino-60khz-atomic-clock-receiver-module-wwvb-msf-jjy60/
+https://www.universal-solder.ca/product/canaduino-dcf77-atomic-clock-receiver-module-77-5khz-for-europe/
 
 However at the time of writing they are still showing v2 of the board but shipping v3. The pinout has changed and the operation is slightly different, so here for your entertainment is a Pi HAT style development board that accepts v3 of the board for developing your own projects.
 
